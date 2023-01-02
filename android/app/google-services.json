@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "726989396106",
+    "project_id": "seyahat-uygulamasi-68ff5",
+    "storage_bucket": "seyahat-uygulamasi-68ff5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726989396106:android:fa39cde3e7837e957f3573",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "726989396106-9kmouv5tcu93i880bmt0qg3vgcmocofv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDncLjOASijkcM_CJKnEytk5DicyNqhoBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "726989396106-9kmouv5tcu93i880bmt0qg3vgcmocofv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "726989396106-t2jrf5dfas8b3ii5nm707dl9332pui5l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.flutterAuthUi"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
