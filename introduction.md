@@ -1,6 +1,8 @@
 # tripativisor
 
-A new Flutter project.
+I made flutter project with firebase and search applications
+If you have any questions, ask me anything in instagram
+##@atakanberkyilmaz_ -> instagram
 
 ## Getting Started
 
